@@ -2,6 +2,6 @@
 
 	echo "Olá mundo!";
 
-	echo "Olá hcode!";
+	echo "Olá Udemy!";
 		
 ?>
